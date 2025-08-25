@@ -1,17 +1,20 @@
-<!-- Top Technology Badges -->
+<!-- Live Demo Badge -->
+<p align="center">
+  <a href="https://employeee-mangement-system.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Netlify-green?logo=netlify" alt="Live Demo">
+  </a>
+</p>
 
-<!-- Live Demo -->
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-green?logo=netlify)](https://employeee-mangement-system.netlify.app/)
-
-<br>
-
-![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-4-purple?logo=vite&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-React-61dafb)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-Storage-orange)
-![React Icons](https://img.shields.io/badge/React_Icons-Icons-green)
+<!-- Technology Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Vite-4-purple?logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Context_API-React-61dafb" alt="Context API">
+  <img src="https://img.shields.io/badge/LocalStorage-Storage-orange" alt="LocalStorage">
+  <img src="https://img.shields.io/badge/React_Icons-Icons-green" alt="React Icons">
+</p>
 
 # 🖥️ Employee Management System (EMS)
 
