@@ -1,6 +1,9 @@
 <!-- Top Technology Badges -->
 
+<!-- Live Demo -->
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-green?logo=netlify)](https://employeee-mangement-system.netlify.app/)
+
+<br>
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
